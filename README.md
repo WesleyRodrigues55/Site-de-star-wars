@@ -1,2 +1,5 @@
 # Site-de-star-wars
-SITE RESPONSIVO FEITO, NÃO ESTÁ PERFEITO, MAS FOI TREINADO NELE ALGUNS CONCEITOS DE BOOTSTRAP E CSS
+<h1> Esse foi o meu primeiro projeto feito com HTML, CSS e BOOTSTRAP</h1>
+<p>O projeto trás contigo um layout criado por mim, não é um dos melhores haha</p>
+<p>Projeto criado para praticar e observar minha evolução com o front end</P.
+
